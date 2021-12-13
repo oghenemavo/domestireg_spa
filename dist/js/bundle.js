@@ -1,0 +1,2 @@
+!function o(t,i,u){function f(e,r){if(!i[e]){if(!t[e]){var n="function"==typeof require&&require;if(!r&&n)return n(e,!0);if(c)return c(e,!0);throw(n=new Error("Cannot find module '"+e+"'")).code="MODULE_NOT_FOUND",n}n=i[e]={exports:{}},t[e][0].call(n.exports,function(r){return f(t[e][1][r]||r)},n,n.exports,o,t,i,u)}return i[e].exports}for(var c="function"==typeof require&&require,r=0;r<u.length;r++)f(u[r]);return f}({1:[function(r,e,n){"use strict";console.log("Hello fromx TypeScript")},{}]},{},[1]);
+//# sourceMappingURL=bundle.js.map
